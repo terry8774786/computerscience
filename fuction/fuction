@@ -1,0 +1,13 @@
+x = 5
+
+def_fuction()
+print("Hello world")
+print("catdog")
+print("terry's Top Five Movie")
+
+print("Osowski r00lz d00d")
+my_function()
+my_function()
+my_function()
+my_function()
+my_function()
